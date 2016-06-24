@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "homepage": "http://econym.org.uk/gmap/",
   "main": [
-    "v3_epoly.min.js"
+    "v3_epoly.js"
   ],
   "authors": [
     "Danilo Recchia"
