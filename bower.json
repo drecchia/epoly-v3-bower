@@ -1,0 +1,19 @@
+{
+  "name": "epoly-v3-bower",
+  "version": "3.0.0",
+  "homepage": "http://econym.org.uk/gmap/",
+  "main": [
+    "v3_epoly.min.js"
+  ],
+  "authors": [
+    "Danilo Recchia"
+  ],
+  "keywords": [
+    "epoly",
+    "gmap",
+    "bower"
+  ],
+  "license": "CC BY 3.0 -- http://creativecommons.org/licenses/by/3.0/",
+  "ignore": [
+  ]
+}
